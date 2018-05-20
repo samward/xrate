@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    xrate (0.1.0)
+    xrate (0.1.3)
       nokogiri (~> 1.8)
 
 GEM
